@@ -1,0 +1,13 @@
+source,target,value
+Health Care,Nurse,3
+Nurse,Research Nurse,3
+Nurse,Analytical Nurse,2
+Nurse,MidWife Nurse,1
+ICT,Analyst,2
+Analyst,DBA,3
+Analyst,SA,2
+Construction,Engineer,1
+Engineer,Civil,3
+Engineer,Mech,2
+MidWife Nurse,Analytical Nurse,1
+Analytical Nurse,Research Nurse,1
